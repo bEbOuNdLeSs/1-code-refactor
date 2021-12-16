@@ -22,3 +22,10 @@ Appearance wise, the live website appears to be the same however as requested in
 ![alt text](https://github.com/beboundless/1-code-refactor/blob/main/before-html?raw=true)
 ### After
 ![alt text](https://github.com/beboundless/1-code-refactor/blob/main/after-html?raw=true)
+
+## CSS
+Within the CSS, we were requested to CSS selecotors and properties. Along with leaving comments that would help describe the function of the CSS. It was important to consildate the CSS file as some properties for selectors were repeating and taking many lines of code, however now the code appears more pleasant and clean with comments that describe the functions. Below you will find images that show before and after the consolidation and organization of CSS selectors and properties. 
+### Before
+![alt text](https://github.com/beboundless/1-code-refactor/blob/main/before-css?raw=true)
+### After 
+![alt text](https://github.com/beboundless/1-code-refactor/blob/main/after-css?raw=true)
