@@ -10,4 +10,5 @@ A list of the HTML scemantic elements that were used to replace the undiscriptiv
 - main
 - nav
 - section
+
 Each element listed above is descriptive in it's functionality and purpose within HTML this eliminating confusion that may occur when a colleague or another individual looks at the code. Incomparison to the document before and editations, one may become confused due to the lack of descriptive semantic elements as divs are not descriptive in their function.
